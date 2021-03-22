@@ -7,11 +7,20 @@ Consider this is the most UNOFFICIAL repo, and so... UAYOR ( use-at-your-own-ris
 <h2>BLOCKS</h2>
 
 <h3>graphCombinedI</h3>
-The graphCombined block has a few coexistence problems with other graphic blocks...
+The graphCombined block has a few coexistence problems with other graphic blocks...<br>
 http://www.meteotemplate.com/forum/viewtopic.php?f=56&t=2036<br>
 <h3>riset</h3>
-Show sun/moon data and position in the sky...
+Show sun/moon data and position in the sky...<br>
 http://www.meteotemplate.com/forum/viewtopic.php?f=56&t=2034<br>
+<h3>airQualitySensor</h3>
+Show your particulate sensor data: pm1.0/pm2.5/pm10.0...<br>
+http://www.meteotemplate.com/forum/viewtopic.php?f=55&t=2022<br>
+<h3>solarEclipses</h3>
+Visualize solar eclipses...<br>
+http://www.meteotemplate.com/forum/viewtopic.php?f=55&t=2012<br>
+<h3>lightnings</h3>
+Show lightnings maps from map.blitzortung.org...<br>
+http://www.meteotemplate.com/forum/viewtopic.php?f=56&t=2008<br>
 
 <h2>PLUGINS</h2>
 
@@ -23,9 +32,6 @@ http://www.meteotemplate.com/forum/viewtopic.php?f=59&t=2030<br>
 <h3>indoorData-degreeDays</h3>
 If you didn't read how to install this plugin...<br>
 http://www.meteotemplate.com/forum/viewtopic.php?f=60&t=1998<br>
-<h3>airQualitySensr</h3>
-Show your particulate sensor data: pm1.0/pm2.5/pm10.0...<br>
-http://www.meteotemplate.com/forum/viewtopic.php?f=55&t=2022<br>
 
 <h2>TEMPLATE MODS</h2>
 
