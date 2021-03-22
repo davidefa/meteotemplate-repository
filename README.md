@@ -6,13 +6,20 @@ Consider this is the most UNOFFICIAL repo, and so... UAYOR ( use-at-your-own-ris
 
 <h2>BLOCKS</h2>
 
+<h3>graphCombinedI</h3>
+The graphCombined block has a few coexistence problems with other graph blocks...
+http://www.meteotemplate.com/forum/viewtopic.php?f=56&t=2036<br>
+
 <h2>PLUGINS</h2>
 
 <h3>webcamRename ( and overlay )</h3>
 If your IP camera uploads images with 'everchanging names'...<br>
 If you need to overlay the images with your station data...<br>
 If you want an all-in-one solution ( no need for hardware software running 24h )...<br>
-http://www.meteotemplate.com/forum/viewtopic.php?f=59&t=2030
+http://www.meteotemplate.com/forum/viewtopic.php?f=59&t=2030<br>
+<h3>indoorData-degreeDays</h3>
+If you didn't read how to install this plugin...<br>
+http://www.meteotemplate.com/forum/viewtopic.php?f=60&t=1998<br>
 
 <h2>TEMPLATE MODS</h2>
 
