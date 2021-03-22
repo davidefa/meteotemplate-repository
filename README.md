@@ -5,7 +5,7 @@ Hope you enjoy using meteotemplate software. This is only a small repo/link of b
 Consider this is the most UNOFFICIAL repo, and so... UAYOR ( use-at-your-own-risk ; - )<br>
 These are all derived ( only minor updates/modifications ) from the official ones ( unless stated otherwise ).
 
-<h2>BLOCKS</h2>
+<br><br><h2>BLOCKS</h2>
 
 <h3>graphCombinedI</h3>
 The graphCombined block has a few coexistence problems with other graphic blocks...<br>
@@ -29,7 +29,7 @@ http://www.meteotemplate.com/forum/viewtopic.php?f=56&t=2007<br>
 <h3>warningsUK<br>
 http://www.meteotemplate.com/forum/viewtopic.php?f=56&t=1995<br>
 
-<h2>PLUGINS</h2>
+<br><br><h2>PLUGINS</h2>
 
 <h3>webcamRename ( and overlay )</h3>
 If your IP camera uploads images with 'everchanging names'...<br>
@@ -47,9 +47,8 @@ http://www.meteotemplate.com/forum/viewtopic.php?f=51&t=2033<br>
 <h3>meteotemplate's icons change</h3>
 Add your own icon to the one available...<br>
 http://www.meteotemplate.com/forum/viewtopic.php?f=52&t=201<br>
-<br><br><br>
 
-<h2>Links</h2>
+<br><br><h2>Links</h2>
 For the OFFICIAL site see: http://www.meteotemplate.com/<br>
 For the OFFICIAL wiki see: http://www.meteotemplate.com/web/wiki/wiki1GB.php<br>
 For the OFFICIAL forum see: http://www.meteotemplate.com/forum/index.php<br>
