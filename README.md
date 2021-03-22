@@ -47,7 +47,9 @@ http://www.meteotemplate.com/forum/viewtopic.php?f=51&t=2033<br>
 <h3>meteotemplate's icons change</h3>
 Add your own icon to the one available...<br>
 http://www.meteotemplate.com/forum/viewtopic.php?f=52&t=201<br>
+<br><br><br>
 
+<h2>Links</h2>
 For the OFFICIAL site see: http://www.meteotemplate.com/<br>
 For the OFFICIAL wiki see: http://www.meteotemplate.com/web/wiki/wiki1GB.php<br>
 For the OFFICIAL forum see: http://www.meteotemplate.com/forum/index.php<br>
