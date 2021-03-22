@@ -41,6 +41,12 @@ If you didn't read how to install this plugin...<br>
 http://www.meteotemplate.com/forum/viewtopic.php?f=60&t=1998<br>
 
 <h2>TEMPLATE MODS</h2>
+<h3>season's icon update</h3>
+If you 'lost' the small icon on the lower left...<br>
+http://www.meteotemplate.com/forum/viewtopic.php?f=51&t=2033<br>
+<h3>meteotemplate's icons change</h3>
+Add your own icon to the one available...<br>
+http://www.meteotemplate.com/forum/viewtopic.php?f=52&t=201<br>
 
 For the OFFICIAL site see: http://www.meteotemplate.com/<br>
 For the OFFICIAL wiki see: http://www.meteotemplate.com/web/wiki/wiki1GB.php<br>
