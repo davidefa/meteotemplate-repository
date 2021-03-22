@@ -1,8 +1,9 @@
 # meteotemplate (unofficial) repository
 Repository of blocks, plugins, mods for meteotemplate
 
-Hope you enjoy using meteotemplate software. This is only a small repo/link of blocks, plugins, mods, updates or other usefull stuff you may find usefull when working with meteotemplate.
-Consider this is the most UNOFFICIAL repo, and so... UAYOR ( use-at-your-own-risk ; - )
+Hope you enjoy using meteotemplate software. This is only a small repo/link of blocks, plugins, mods, updates or other usefull stuff you may find usefull when working with meteotemplate.<br>
+Consider this is the most UNOFFICIAL repo, and so... UAYOR ( use-at-your-own-risk ; - )<br>
+These are all derived ( only minor updates/modifications ) from the official ones ( unless stated otherwise ).
 
 <h2>BLOCKS</h2>
 
@@ -21,6 +22,11 @@ http://www.meteotemplate.com/forum/viewtopic.php?f=55&t=2012<br>
 <h3>lightnings</h3>
 Show lightnings maps from map.blitzortung.org...<br>
 http://www.meteotemplate.com/forum/viewtopic.php?f=56&t=2008<br>
+<h3>gfs</h3>
+Show gfs maps, charts, tables...<br>
+http://www.meteotemplate.com/forum/viewtopic.php?f=56&t=2007<br>
+<h3>worningsUK<br>
+http://www.meteotemplate.com/forum/viewtopic.php?f=56&t=1995<br>
 
 <h2>PLUGINS</h2>
 
