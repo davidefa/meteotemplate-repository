@@ -26,7 +26,7 @@ http://www.meteotemplate.com/forum/viewtopic.php?f=56&t=2008<br>
 <h3>gfs</h3>
 Show gfs maps, charts, tables...<br>
 http://www.meteotemplate.com/forum/viewtopic.php?f=56&t=2007<br>
-<h3>worningsUK<br>
+<h3>warningsUK<br>
 http://www.meteotemplate.com/forum/viewtopic.php?f=56&t=1995<br>
 
 <h2>PLUGINS</h2>
