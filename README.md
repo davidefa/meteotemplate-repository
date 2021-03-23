@@ -26,8 +26,11 @@ http://www.meteotemplate.com/forum/viewtopic.php?f=56&t=2008<br>
 <h3>gfs</h3>
 Show gfs maps, charts, tables...<br>
 http://www.meteotemplate.com/forum/viewtopic.php?f=56&t=2007<br>
-<h3>warningsUK<br>
+<h3>warningsUK</h3>
 http://www.meteotemplate.com/forum/viewtopic.php?f=56&t=1995<br>
+<h3>ecowittModules</h3>
+Show the status of available ecowitt sensors<br>
+( derived from Raffaello Di Martino's block https://github.com/iz0qwm/ecowitt_http_gateway/blob/master/Meteotemplate_block_ecowittModules_1.0.zip )<br>
 
 <br><br><h2>PLUGINS</h2>
 
