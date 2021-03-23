@@ -53,9 +53,9 @@ If the block automatic installation does not work for you...<br>
 http://www.meteotemplate.com/forum/viewtopic.php?f=51&t=2005<br>
 
 <br><br><h2>Links</h2>
-For the OFFICIAL site see: http://www.meteotemplate.com/<br>
-For the OFFICIAL wiki see: http://www.meteotemplate.com/web/wiki/wiki1GB.php<br>
-For the OFFICIAL forum see: http://www.meteotemplate.com/forum/index.php<br>
-For the OFFICIAL demo see: http://www.meteotemplate.com/template/indexDesktop.php<br>
-For the OFFICIAL blocks see: http://www.meteotemplate.com/web/blocks.php<br>
-For the OFFICIAL plugin see: http://www.meteotemplate.com/web/plugins.php<br>
+OFFICIAL site: http://www.meteotemplate.com/<br>
+OFFICIAL wiki: http://www.meteotemplate.com/web/wiki/wiki1GB.php<br>
+OFFICIAL forum: http://www.meteotemplate.com/forum/index.php<br>
+OFFICIAL demo: http://www.meteotemplate.com/template/indexDesktop.php<br>
+OFFICIAL blocks: http://www.meteotemplate.com/web/blocks.php<br>
+OFFICIAL plugin: http://www.meteotemplate.com/web/plugins.php<br>
