@@ -1,7 +1,7 @@
 # meteotemplate (unofficial) repository
 Repository of blocks, plugins, mods for meteotemplate
 
-Hope you enjoy using meteotemplate software. This is only a small repo/link of blocks, plugins, mods, updates or other usefull stuff you may find usefull when working with meteotemplate.<br>
+Hope you enjoy using <a href="http://www.meteotemplate.com/">meteotemplate software</a>. This is only a small repo/link of blocks, plugins, mods, updates or other usefull stuff you may find usefull when working with meteotemplate.<br>
 Consider this is the most UNOFFICIAL repo, and so... UAYOR ( use-at-your-own-risk ; - )<br>
 These are all derived ( only minor updates/modifications ) from the official ones ( unless stated otherwise ).
 
