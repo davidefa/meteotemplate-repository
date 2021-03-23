@@ -6,7 +6,6 @@ Consider this is the most UNOFFICIAL repo, and so... UAYOR ( use-at-your-own-ris
 These are all derived ( only minor updates/modifications ) from the official ones ( unless stated otherwise ).
 
 <br><br><h2>BLOCKS</h2>
-
 <h3>graphCombinedI</h3>
 The graphCombined block has a few coexistence problems with other graphic blocks...<br>
 http://www.meteotemplate.com/forum/viewtopic.php?f=56&t=2036<br>
@@ -33,7 +32,6 @@ Show the status of available ecowitt sensors<br>
 ( derived from Raffaello Di Martino's block https://github.com/iz0qwm/ecowitt_http_gateway/blob/master/Meteotemplate_block_ecowittModules_1.0.zip )<br>
 
 <br><br><h2>PLUGINS</h2>
-
 <h3>webcamRename ( and overlay )</h3>
 If your IP camera uploads images with 'everchanging names'...<br>
 If you need to overlay the images with your station data...<br>
@@ -43,13 +41,16 @@ http://www.meteotemplate.com/forum/viewtopic.php?f=59&t=2030<br>
 If you didn't read how to install this plugin...<br>
 http://www.meteotemplate.com/forum/viewtopic.php?f=60&t=1998<br>
 
-<h2>TEMPLATE MODS</h2>
+<br><br><h2>TEMPLATE MODS</h2>
 <h3>season's icon update</h3>
 If you 'lost' the small icon on the lower left...<br>
 http://www.meteotemplate.com/forum/viewtopic.php?f=51&t=2033<br>
 <h3>meteotemplate's icons change</h3>
 Add your own icon to the one available...<br>
 http://www.meteotemplate.com/forum/viewtopic.php?f=52&t=201<br>
+<h3>Block automatic installation</h3>
+If the block automatic installation does not work for you...<br>
+http://www.meteotemplate.com/forum/viewtopic.php?f=51&t=2005<br>
 
 <br><br><h2>Links</h2>
 For the OFFICIAL site see: http://www.meteotemplate.com/<br>
