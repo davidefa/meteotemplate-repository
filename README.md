@@ -15,7 +15,7 @@ Show sun/moon data and position in the sky...<br>
 http://www.meteotemplate.com/forum/viewtopic.php?f=56&t=2034<br>
 <h3>airQualitySensor</h3>
 Show your particulate sensor data: pm1.0/pm2.5/pm10.0...<br>
-Derived from Raffaello Di Martino's block https://github.com/iz0qwm/ecowitt_http_gateway/blob/master/Meteotemplate_block_airQualityEcowitt_1.1.zip<br>
+( derived from Raffaello Di Martino's block https://github.com/iz0qwm/ecowitt_http_gateway/blob/master/Meteotemplate_block_airQualityEcowitt_1.1.zip )<br>
 http://www.meteotemplate.com/forum/viewtopic.php?f=55&t=2022<br>
 <h3>solarEclipses</h3>
 Visualize solar eclipses...<br>
