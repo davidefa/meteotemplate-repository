@@ -40,6 +40,9 @@ http://www.meteotemplate.com/forum/viewtopic.php?f=59&t=2030<br>
 <h3>indoorData-degreeDays</h3>
 If you didn't read how to install this plugin...<br>
 http://www.meteotemplate.com/forum/viewtopic.php?f=60&t=1998<br>
+<h3>ecowitt</h3>
+This let you receive your ecowitt gateway/console...<br>
+( derived from Raffaello Di Martino's module https://github.com/iz0qwm/ecowitt_http_gateway/blob/master/meteotemplate-ecowitt-2.1.zip )<br>
 
 <br><br><h2>TEMPLATE MODS</h2>
 <h3>season's icon update</h3>
