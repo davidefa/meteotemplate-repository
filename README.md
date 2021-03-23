@@ -1,4 +1,4 @@
-# meteotemplate (unofficial) repository
+# Meteotemplate (unofficial) repository
 Repository of blocks, plugins, mods for meteotemplate
 
 Hope you enjoy using <a href="http://www.meteotemplate.com/">meteotemplate software</a>. This is only a small repo/link of blocks, plugins, mods, updates or other usefull stuff you may find handy when working with meteotemplate.<br>
