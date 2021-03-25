@@ -54,6 +54,9 @@ http://www.meteotemplate.com/forum/viewtopic.php?f=52&t=201<br>
 <h3>Block automatic installation</h3>
 If the block automatic installation does not work for you...<br>
 http://www.meteotemplate.com/forum/viewtopic.php?f=51&t=2005<br>
+<h3>Plugin automatic installation</h3>
+If the manuai installation of plugins is too annoying for you...<br>
+http://www.meteotemplate.com/forum/viewtopic.php?f=50&t=2040<br>
 
 <br><br><h2>Links</h2>
 OFFICIAL site: http://www.meteotemplate.com/<br>
